@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Federico Perez, a software developer from Uruguay. 10 years of professional experience as software developer, mainly focused in Android and backend development. I'm a fast learner who likes learning new technologies and finding new challenges.
+My name is Federico Perez, a software developer from Uruguay. 10 years of professional experience as software developer, focused in Android and backend development. I'm a fast learner who likes learning new technologies and finding new challenges.
 
 ### Languages and frameworks  
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
